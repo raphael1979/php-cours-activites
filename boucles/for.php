@@ -332,3 +332,4 @@ foreach ($videotheque as $key => $film) {
   }
 }
 echo '<br><br>';
+?>
